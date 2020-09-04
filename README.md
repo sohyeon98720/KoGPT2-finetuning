@@ -1,4 +1,4 @@
-# KoGPT2-finetunning
+# KoGPT2-finetuning
 자연어 생성
 
 
