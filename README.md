@@ -5,10 +5,16 @@
 ### 설명:
 
 ----------
-### 
 
 ----------
 
-참고자료: 
+### input data structure
+---------
+
+### output example
+
+----------
+
+### 참고자료: 
   - https://github.com/SKT-AI/KoGPT2 
   - https://github.com/gyunggyung/KoGPT2-FineTuning
