@@ -18,6 +18,6 @@
 
 ----------
 
-### 참고자료: 
+### reference 
   - https://github.com/SKT-AI/KoGPT2 
   - https://github.com/gyunggyung/KoGPT2-FineTuning
