@@ -18,6 +18,10 @@
 ----------
 
 ### input data structure
+  |weight|genre|sent|
+  |:---:||:---:||:---:|
+  |100|(하나로 통일)|ㅇㅇ|
+  
 ---------
 
 ### output example
