@@ -5,7 +5,7 @@
 ### description
   - __GPT__:
     - __KoGPT__:
-  - 
+  - __fine tuning__:
 
 ----------
 ### Fine tuning
