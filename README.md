@@ -3,6 +3,8 @@
 
 -----------
 ### description
+  - __GPT__:
+  - __KoGPT__:
 
 ----------
 ### Fine tuning
