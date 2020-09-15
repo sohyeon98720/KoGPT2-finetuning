@@ -31,4 +31,4 @@
 
 ### reference 
   - [KoGPT2](https://github.com/SKT-AI/KoGPT2)
-  - [KoGPT2-finetuning-가사데이터](https://github.com/gyunggyung/KoGPT2-FineTuning)
+  - [KoGPT2-finetuning-가사데이터학습](https://github.com/gyunggyung/KoGPT2-FineTuning)
