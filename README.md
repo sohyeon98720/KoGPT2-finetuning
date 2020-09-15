@@ -22,7 +22,6 @@
   |weight|genre|sent|
   |:---:|:---:|:---:|
   |100|(하나로 통일)|...|
-  > reference 두번째 
   
 ---------
 
@@ -32,4 +31,4 @@
 
 ### reference 
   - [KoGPT2](https://github.com/SKT-AI/KoGPT2)
-  - [](https://github.com/gyunggyung/KoGPT2-FineTuning)
+  - [KoGPT2-finetuning-가사데이터](https://github.com/gyunggyung/KoGPT2-FineTuning)
