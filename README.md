@@ -9,7 +9,7 @@
   - __fine tuning__:
 
 ----------
-### install
+### how to install
   `실행 코드`
   
 ----------
