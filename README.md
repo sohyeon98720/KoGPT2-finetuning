@@ -17,7 +17,8 @@ pip install -r requirements.txt
 pip install .
 ```
 <br>
-  or <br>
+or <br>
+
   `실행 코드`
 
 ----------
