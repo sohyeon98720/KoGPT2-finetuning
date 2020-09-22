@@ -10,9 +10,10 @@
 
 ----------
 ### how to install
+  `실행 코드` <br>
+  or <br>
   `실행 코드`
-  or
-  ``
+  
 ----------
 
 ### Fine tuning
