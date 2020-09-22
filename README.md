@@ -10,10 +10,16 @@
 
 ----------
 ### how to install
-  `실행 코드` <br>
+  ```sh
+git clone https://github.com/sohyeon98720/KoGPT2-finetuning.git
+cd KoGPT2-finetuning
+pip install -r requirements.txt
+pip install .
+```
+<br>
   or <br>
   `실행 코드`
-  
+
 ----------
 
 ### Fine tuning
