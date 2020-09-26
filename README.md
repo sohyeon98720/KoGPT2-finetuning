@@ -16,7 +16,6 @@ cd KoGPT2-finetuning
 pip install -r requirements.txt
 pip install .
 ```
-<br>
 or <br>
 
   `zip파일 다운로드 후 pip과정부터 수행`
