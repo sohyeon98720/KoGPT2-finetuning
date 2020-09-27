@@ -23,7 +23,7 @@ or <br>
 ----------
 
 ### Fine tuning
-  `python main.py --epoch=200 --data_file_path=.train.csv --save_path=./checkpoint/ --load_path=./checkpoint/KoGPT2_checkpoint_40000.tar --batch_size=1`
+  `python main.py --epoch=200 --data_file_path=.train.csv --save_path=./checkpoint/ --load_path=./checkpoint/KoGPT2_checkpoint_80000.tar --batch_size=1`
   
 ----------
 ### generator
