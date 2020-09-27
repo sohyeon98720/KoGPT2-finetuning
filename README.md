@@ -33,7 +33,7 @@ or <br>
 ----------
 
 ### input data structure
-  |weight|genre|sent|
+  |score|genre|sent|
   |:---:|:---:|:---:|
   |100|소설|...|
   
