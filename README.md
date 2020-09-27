@@ -27,7 +27,8 @@ or <br>
   
 ----------
 ### generator
-  `실행 코드`
+  `python generator.py --temperature=1.0 --text_size=1000 --tmp_sent="우리"`
+  > temp_sent="우리"는 예시
   
 ----------
 
