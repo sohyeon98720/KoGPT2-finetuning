@@ -5,7 +5,7 @@
 ### description
   - SKT-AI에서 한국어 데이터를 Pre-Training 시킨 KoGPT2를 fine tuning하여 문체 바꾸기
   - __GPT__:
-    - __KoGPT__:
+    - __KoGPT__: 위의 한국어 version
   - __fine tuning__:
 
 ----------
