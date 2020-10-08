@@ -28,7 +28,7 @@ or <br>
 ----------
 ### generator
   `python generator.py --temperature=1.0 --text_size=1000 --tmp_sent="우리"` <br>
-  temp_sent="우리"는 예시. 이곳에 원하는 단어 입력
+  *temp_sent="우리"는 예시. 이곳에 원하는 단어 입력*
   
 ----------
 
