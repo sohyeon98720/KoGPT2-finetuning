@@ -4,8 +4,8 @@
 -----------
 ### description
   - SKT-AI에서 한국어 데이터를 Pre-Training 시킨 KoGPT2를 fine tuning하여 문체 바꾸기
-  - __GPT__:
-    - __KoGPT__: 위의 한국어 version
+  - __GPT(Generative Pre-Training)__: OpenAI사가 만든 딥러닝 기반 언어 모델. 현재 3세대 언어 예측 모델인 GPT-3까지 
+    - __KoGPT__: 위의 한국어 version.
   - __fine tuning__:
 
 ----------
