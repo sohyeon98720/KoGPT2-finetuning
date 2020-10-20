@@ -38,6 +38,10 @@ or <br>
   |100|소설|...|
   
 ---------
+### output example(fine tuning)
+
+
+----
 
 ### output example(generator)
 
