@@ -9,6 +9,15 @@
   - __fine tuning__: 기존에 학습되어져있는 모델을 기반으로 아키텍쳐를 새로운 목적에 맞게 변형하고 이미 학습된 모델 weights로부터 학습을 업데이트하는 방법. 쉽게 말해서 추가의 데이터와 함께 파라미터를 미세하게 조정하여 업데이트하는 것을 말함.
 
 ----------
+
+### input data structure
+  |score|genre|sent|
+  |:---:|:---:|:---:|
+  |100|소설|...|
+  *이 코드에서 genre는 이용하지 않은 column이라 값을 모두 통일시킴*
+  
+---------
+
 ### how to install
   ```sh
 git clone https://github.com/sohyeon98720/KoGPT2-finetuning.git
@@ -32,12 +41,6 @@ or <br>
   
 ----------
 
-### input data structure
-  |score|genre|sent|
-  |:---:|:---:|:---:|
-  |100|소설|...|
-  
----------
 ### output example(fine tuning)
 
 
