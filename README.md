@@ -13,7 +13,8 @@
 ### input data structure
   |score|genre|sent|
   |:---:|:---:|:---:|
-  |100|소설|...|
+  |100|소설|...| <br>
+  
   *이 코드에서 genre는 이용하지 않은 column이라 값을 모두 통일시킴*
   
 ---------
