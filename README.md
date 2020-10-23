@@ -51,7 +51,7 @@ or <br>
 ----------
 
 ### output example(generator)
-
+<img src="https://user-images.githubusercontent.com/47767202/96966617-13910880-1549-11eb-86fd-fe840cb17aab.png" width="60%"> <br>
 `내가 항상` -> `내가 항상 행복하고 즐거운 일을 하는 것은 아니지만 오늘 하루도 잘 마무리해본다</s>`
 
 ----------
