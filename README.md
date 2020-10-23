@@ -37,7 +37,7 @@ or <br>
   
 ----------
 ### output example(fine tuning)
-
+<img src="https://user-images.githubusercontent.com/47767202/96966111-3838b080-1548-11eb-8282-75e5e2c38d19.png" width="60%">
 
 ----
 
