@@ -152,19 +152,6 @@ def main(epoch, save_path, load_path, samples, data_file_path, batch_size):
 			data = torch.stack(data[0]) # list of Tensor로 구성되어 있기 때문에 list를 stack을 통해 변환해준다. --원래코드
 			data = data.transpose(1,0) # --원래코드
 			
-			'''
-			#---소현
-			#print("data type: ",type(data))
-			#print(data)
-			data=np.array(data)
-			data=np.squeeze(data)
-			print(data)
-			#print("data type2: ",type(data))
-			data = data.transpose()
-			print(type(data))
-			data=torch.tensor(data)
-			#---소현
-			'''
 
 			data = data.to(ctx) # 해당 tensor를 GPU에 loading
 			model = model.to(ctx) 
