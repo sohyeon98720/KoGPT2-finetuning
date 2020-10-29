@@ -149,8 +149,8 @@ def main(epoch, save_path, load_path, samples, data_file_path, batch_size):
 	for epoch in range(epoch):
 		for data in data_loader:
 			optimizer.zero_grad()
-			data = torch.stack(data[0]) # list of Tensor로 구성되어 있기 때문에 list를 stack을 통해 변환해준다. --원래코드
-			data = data.transpose(1,0) # --원래코드
+			data = torch.stack(data[0]) # list of Tensor로 구성되어 있기 때문에 list를 stack을 통해 변환해준다. --shape문제 -> data[0]으로 수정
+			data = data.transpose(1,0)
 			
 
 			data = data.to(ctx) # 해당 tensor를 GPU에 loading
