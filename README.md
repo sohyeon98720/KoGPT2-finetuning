@@ -39,6 +39,7 @@ or <br>
 ### output example(fine tuning)
 <img src="https://user-images.githubusercontent.com/47767202/96966111-3838b080-1548-11eb-8282-75e5e2c38d19.png" width="60%"><br>
 `우리` -> `우리 집은 우리 친구들에게 따뜻한 손길을 줄 수 있는 곳입니다.</s>`
+*input sent가 모두 통일되어있음*
 
 ----
 
