@@ -24,7 +24,6 @@
 git clone https://github.com/sohyeon98720/KoGPT2-finetuning.git
 cd KoGPT2-finetuning
 pip install -r requirements.txt
-pip install .
 ```
 or <br>
 
