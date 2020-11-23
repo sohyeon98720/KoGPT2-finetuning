@@ -15,7 +15,7 @@
   |:---:|:---:|:---:|
   |100|소설|우리의 마음을...| <br>
   
-  *이 코드에서 genre는 이용하지 않은 column이라 값을 모두 통일시킴*
+  *이 코드에서 score, genre는 이용하지 않은 column이라 값을 모두 통일시킴*
   
 ---------
 
@@ -47,7 +47,7 @@ or <br>
 ### generator
   `python generator.py --temperature=1.0 --text_size=1000 --load_path=./checkpoint/KoGPT2_checkpoint_80000.tar --tmp_sent="내가 항상"` <br>
   *temp_sent="내가 항상"는 예시. 이곳에 원하는 단어 입력.*<br>
-  *첫 문장만 tmp_sent로 시작되는 문장이 출력되고 이후로는 input을 바꿔 실행할 수 있음*
+  *첫 문장만 tmp_sent로 시작되는 문장이 출력되고 이후로는 input을 바꿔 실행할 수 있음* <br>
   *temperature는 생성되는 글의 창의성을 조절*
   
   
