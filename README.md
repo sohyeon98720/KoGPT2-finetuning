@@ -32,7 +32,8 @@ or <br>
 ----------
 
 ### fine tuning
-  `python main.py --epoch=200 --data_file_path=./train.csv --save_path=./checkpoint/ --load_path=./checkpoint/KoGPT2_checkpoint_80000.tar --batch_size=1`
+  `python main.py --epoch=200 --data_file_path=./train.csv --save_path=./checkpoint/ --load_path=./checkpoint/KoGPT2_checkpoint_80000.tar --batch_size=1` <br>
+  load_path는 존재하면 학습된 모델부터 train 시작 / 존재하지않으면 처음부터 train 시작
   
 ----------
 ### output example(fine tuning)
@@ -47,6 +48,7 @@ or <br>
   `python generator.py --temperature=1.0 --text_size=1000 --load_path=./checkpoint/KoGPT2_checkpoint_80000.tar --tmp_sent="내가 항상"` <br>
   *temp_sent="내가 항상"는 예시. 이곳에 원하는 단어 입력.*<br>
   *첫 문장만 tmp_sent로 시작되는 문장이 출력되고 이후로는 input을 바꿔 실행할 수 있음*
+  *temperature는 생성되는 글의 창의성을 조절*
   
   
 ----------
