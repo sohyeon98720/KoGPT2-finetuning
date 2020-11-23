@@ -33,7 +33,7 @@ or <br>
 
 ### fine tuning
   `python main.py --epoch=200 --data_file_path=./train.csv --save_path=./checkpoint/ --load_path=./checkpoint/KoGPT2_checkpoint_80000.tar --batch_size=1` <br>
-  load_path는 존재하면 학습된 모델부터 train 시작 / 존재하지않으면 처음부터 train 시작
+  *load_path는 존재하면 학습된 모델부터 train 시작 / 존재하지않으면 처음부터 train 시작*
   
 ----------
 ### output example(fine tuning)
