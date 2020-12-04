@@ -7,7 +7,7 @@
   - __GPT(Generative Pre-Training Transformer)__: OpenAI사가 만든 딥러닝 기반 언어 모델. 최근 3세대 언어 예측 모델인 GPT-3까지 공개됨.
     - __KoGPT2__: 위의 한국어 version. SKT AI팀에서 GPT-2 base모델을 이용하여 개선한 모델임.
   - __fine tuning__: 기존에 학습되어져있는 모델을 기반으로 아키텍쳐를 새로운 목적에 맞게 변형하고 이미 학습된 모델 weights로부터 학습을 업데이트하는 방법. 쉽게 말해서 추가의 데이터와 함께 파라미터를 미세하게 조정하여 업데이트하는 것을 말함. <br>
-  -> pre-trained model을 이용한 finetuning 전략
+-> pre-trained model을 이용한 finetuning 전략
 
 ----------
 
