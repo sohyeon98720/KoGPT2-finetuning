@@ -5,4 +5,8 @@ sentencepiece == 0.1.6
 torch == 1.5.1
 transformers == 2.1.1
 tensorboardX
-dropbox
+# version문제 있다면 아래까지 맞춰주기
+```
+numpy == 1.16.6
+pandas == 1.1.3
+```
