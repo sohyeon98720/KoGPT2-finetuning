@@ -37,7 +37,7 @@ or <br>
   *load_path는 존재하면 학습된 모델부터 train 시작 / 존재하지않으면 처음부터 train 시작*
   
 ----------
-### output example(fine tuning)
+### fine tuning - output example
 <img src="https://user-images.githubusercontent.com/47767202/96966111-3838b080-1548-11eb-8282-75e5e2c38d19.png" width="60%"><br>
 `우리` -> `우리 집은 우리 친구들에게 따뜻한 손길을 줄 수 있는 곳입니다.</s>` <br>
 *sent가 모두 통일되어있어 sent로 시작하는 문장만 generate하여 보여줌*<br>
@@ -54,7 +54,7 @@ or <br>
   
 ----------
 
-### output example(generator)
+### generator - output example
 <img src="https://user-images.githubusercontent.com/47767202/96966617-13910880-1549-11eb-86fd-fe840cb17aab.png" width="60%"> <br>
 `내가 항상` -> `내가 항상 행복하고 즐거운 일을 하는 것은 아니지만 오늘 하루도 잘 마무리해본다</s>`
 
