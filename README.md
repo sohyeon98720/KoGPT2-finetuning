@@ -2,7 +2,7 @@
 ### 산합협력프로젝트(2020.04~2020.08)
 
 ---------
-visit [here](https://github.com/sohyeon98720/script_generation_kr) for more about text-generation
+visit [here](https://github.com/sohyeon98720/script_generation_kr) for more about text-generation and evaluation
 
 -----------
 ### description
