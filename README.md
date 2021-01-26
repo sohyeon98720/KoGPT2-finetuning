@@ -1,6 +1,9 @@
 # KoGPT2-finetuning(한국어 자연어 처리 모델 미세조정)
 ### 산합협력프로젝트(2020.04~2020.08)
 
+---------
+visit [here](https://github.com/sohyeon98720/script_generation_kr) for more about text-generation
+
 -----------
 ### description
   - SKT-AI에서 한국어 데이터를 Pre-Training 시킨 KoGPT2를 fine tuning하여 문체 바꾸기
